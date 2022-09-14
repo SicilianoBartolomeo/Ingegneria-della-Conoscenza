@@ -1,0 +1,93 @@
+[
+    {
+      "_id": 1,
+      "nome": "Autofficina Meccanica ElettrautoColaianni Lorenzo",
+      "indirizzo": "Viale Ottorino Respighi, 55, 70132 Bari BA",
+      "latitudine": 41.13737660736756,
+      "longitudine":  16.825830944266674
+    },
+    {
+        "_id": 2,
+        "nome": "Officina Calabria",
+        "indirizzo": "Via Bruno Buozzi, 60, 70132 Bari BA",
+        "latitudine": 41.11565726000964,
+        "longitudine":  16.83063447030585
+      },
+      {
+        "_id": 3,
+        "nome": "Attolico Officina",
+        "indirizzo": "Viale Caduti di Nassiriya, 6, 70124 Bari BA",
+        "latitudine": 41.102759078707,
+        "longitudine": 16.835769285588917
+     },
+     {
+        "_id": 4,
+        "nome": "Officine Meccaniche Longo Snc",
+        "indirizzo": "2 trav. S. Caterina, Bari, BA 70100",
+        "latitudine": 41.11373019511257,
+        "longitudine": 16.84564693898733
+     },
+     {
+        "_id": 5,
+        "nome": "Autofficina Raffaele Pansini",
+        "indirizzo": "Corso della Carboneria, 26, 70123 Bari BA",
+        "latitudine": 41.12653763707839,
+        "longitudine": 16.849685754493297
+     },
+     {
+        "_id": 6,
+        "nome": "Autofficina MANNARINI",
+        "indirizzo": "Via Giovanni Bovio, 24, 70123 Bari BA",
+        "latitudine": 41.12394889329944,
+        "longitudine": 16.859043191598676
+     },
+     {
+        "_id": 7,
+        "nome": "Bosch Car Service",
+        "indirizzo": "Via Scipione Crisanzio, 216, 70123 Bari BA",
+        "latitudine": 41.12013117048776,
+        "longitudine": 16.857667365557983
+     },
+     {
+        "_id": 8,
+        "nome": "Autofficina Autorizzata Sapone Vito",
+        "indirizzo": "Viale Domenico Cotugno, 19, 70124 Bari BA",
+        "latitudine": 41.10856800406906,
+        "longitudine": 16.856987722181692
+     },
+     {
+        "_id": 9,
+        "nome": "Officina C&C",
+        "indirizzo": "Via Timavo, 29, 70124 Bari BA",
+        "latitudine": 41.11030294304167,
+        "longitudine": 16.865473420188255
+     },
+     {
+        "_id": 10,
+        "nome": "Autofficina Oreste",
+        "indirizzo": "Via Giuseppe Zanardelli, 89, 70125 Bari BA",
+        "latitudine": 41.109459361294874,
+        "longitudine": 16.87534430628831
+     },
+     {
+        "_id": 11,
+        "nome": "Autofficina Riparazioni Auto",
+        "indirizzo": "Via Giovanni Amendola, 109, 70126 Bari BA",
+        "latitudine": 41.11637784866092,
+        "longitudine": 16.879383340342045
+     },
+     {
+        "_id": 12,
+        "nome": "Autofficina meccanico Bari - F.lli De Marzo S.a.s.",
+        "indirizzo": "Via Caldarola, 11/A, 70126 Bari BA",
+        "latitudine": 41.117216964083205,
+        "longitudine": 16.883762383361773
+     },
+     {
+        "_id": 13,
+        "nome": "Autofficina Meccanica Auto",
+        "indirizzo": "Via Padre Pio, 70126 Bari BA",
+        "latitudine": 41.11107025447134,
+        "longitudine": 16.89028229818511
+     }
+]

@@ -90,7 +90,7 @@ class Navigator:
         return coordinate
 
     def getAllCoordinate(self):
-        with open('meccanici.json', 'r') as f:
+        with open('Resources\meccanici.json', 'r') as f:
             data = json.load(f)
 
         coordinate = []
